@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="book_left">Number of books in the inventory: %1$d</string>
+    <string name="unique_books_left">Number of unique books in the inventory: %1$d</string>
+    <string name="action_insert">Insert a Book</string>
+    <string name="action_selling">Selling a Book</string>
+    <string name="action_delete_all_entries">Delete All Entries</string>
+</resources>
